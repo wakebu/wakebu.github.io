@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Project Wake Bu
+
+Wake Bu it's play for U
+
+to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wakebu/wakebu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
